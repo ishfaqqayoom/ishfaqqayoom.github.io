@@ -18,21 +18,18 @@ I am a frontend engineer with an experience of over 5 years. I have hands on exp
 
 ## Experience
 
-### **SENIOR FRONTEND DEVELOPER**
-### MIRO
+### **SENIOR SOFTWARE DEVELOPER**
+### Lelafe
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+### **LEAD REACT NATIVE DEVELOPER**
+### NOQOD
 
-### **FRONTEND DEVELOPER**
-### Booking.com
+### **REACT DEVELOPER**
+### GRAPHIC WEAVE
 
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
-
-### **SOFTWARE DEVELOPER**
-### NAGARRO PVT, LTD
-
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
-
+At GraphicWeave, my roles include creating responsive web content which is user friendly and dynamic.
+I specialise in develop Single Page Apps using React.js, HTML5, CSS3, Webpack and everything in between.
+I can also develop cross platform mobile applications for Android and iOS in JavaScript using React Native.
 ---
 
 ## Education

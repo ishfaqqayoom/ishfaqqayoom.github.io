@@ -21,6 +21,7 @@ I am a frontend engineer with an experience of over 5 years. I have hands on exp
 ### **SENIOR SOFTWARE DEVELOPER**
 ### Lelafe
 
+
 ### **LEAD REACT NATIVE DEVELOPER**
 ### NOQOD
 
@@ -30,6 +31,7 @@ I am a frontend engineer with an experience of over 5 years. I have hands on exp
 At GraphicWeave, my roles include creating responsive web content which is user friendly and dynamic.
 I specialise in develop Single Page Apps using React.js, HTML5, CSS3, Webpack and everything in between.
 I can also develop cross platform mobile applications for Android and iOS in JavaScript using React Native.
+
 ---
 
 ## Education

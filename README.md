@@ -43,6 +43,4 @@ GPA 8.75
 ---
 
 ### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
-
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
+I enjoy being outdoors, so i go for run everyday. I love travelling.

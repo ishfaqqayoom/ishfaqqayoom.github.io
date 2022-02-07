@@ -21,9 +21,12 @@ I am a frontend engineer with an experience of over 5 years. I have hands on exp
 ### **SENIOR SOFTWARE DEVELOPER**
 ### Lelafe
 
+LeLafe is an IT services and software firm that specializes in providing high value solutions to our government, corporate and nonprofit clients by leveraging mature process and technology improvement techniques, innovative software, sub-contracting and IT talent augmentation
 
 ### **LEAD REACT NATIVE DEVELOPER**
 ### NOQOD
+
+NOQOD is an online payment system. The app is used for money transfers, online payments, bill payments, bank deposits, etc. The app is created in react-native and mainly featured with libraries like Firebase( cloud messaging, push notification, crashlytics), Encryption, internationalization.
 
 ### **REACT DEVELOPER**
 ### GRAPHIC WEAVE
